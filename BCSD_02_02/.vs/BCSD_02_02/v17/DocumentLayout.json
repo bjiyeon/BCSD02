@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|c:\\users\\pc\\desktop\\\uB300\uD559\\bcsd\\week2\\bcsd02\\bcsd_02_02\\bcsd_02_02\\this.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|solutionrelative:bcsd_02_02\\this.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|c:\\users\\pc\\desktop\\\uB300\uD559\\bcsd\\week2\\bcsd02\\bcsd_02_02\\bcsd_02_02\\deepcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|solutionrelative:bcsd_02_02\\deepcopy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|c:\\users\\pc\\desktop\\\uB300\uD559\\bcsd\\week2\\bcsd02\\bcsd_02_02\\bcsd_02_02\\shallow copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|solutionrelative:bcsd_02_02\\shallow copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|c:\\users\\pc\\desktop\\\uB300\uD559\\bcsd\\week2\\bcsd02\\bcsd_02_02\\bcsd_02_02\\constructormethodoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|solutionrelative:bcsd_02_02\\constructormethodoverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|c:\\users\\pc\\desktop\\\uB300\uD559\\bcsd\\week2\\bcsd02\\bcsd_02_02\\bcsd_02_02\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|solutionrelative:bcsd_02_02\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|c:\\users\\pc\\desktop\\\uB300\uD559\\bcsd\\week2\\bcsd02\\bcsd_02_02\\bcsd_02_02\\classobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|solutionrelative:bcsd_02_02\\classobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|c:\\users\\pc\\desktop\\\uB300\uD559\\bcsd\\week2\\bcsd02\\bcsd_02_02\\bcsd_02_02\\accessmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|solutionrelative:bcsd_02_02\\accessmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|c:\\users\\pc\\desktop\\\uB300\uD559\\bcsd\\week2\\bcsd02\\bcsd_02_02\\bcsd_02_02\\membermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|solutionrelative:bcsd_02_02\\membermethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|c:\\users\\pc\\desktop\\\uB300\uD559\\bcsd\\week2\\bcsd02\\bcsd_02_02\\bcsd_02_02\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC71DE4-F909-43AF-A625-02A3BD38B40A}|BCSD_02_02\\BCSD_02_02.csproj|solutionrelative:bcsd_02_02\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "this.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\this.cs",
+              "RelativeDocumentMoniker": "BCSD_02_02\\this.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\this.cs",
+              "RelativeToolTip": "BCSD_02_02\\this.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:51:59.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deepcopy.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\Deepcopy.cs",
+              "RelativeDocumentMoniker": "BCSD_02_02\\Deepcopy.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\Deepcopy.cs",
+              "RelativeToolTip": "BCSD_02_02\\Deepcopy.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:49:26.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shallow copy.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\Shallow copy.cs",
+              "RelativeDocumentMoniker": "BCSD_02_02\\Shallow copy.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\Shallow copy.cs",
+              "RelativeToolTip": "BCSD_02_02\\Shallow copy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:45:09.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "constructormethodoverloading.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\constructormethodoverloading.cs",
+              "RelativeDocumentMoniker": "BCSD_02_02\\constructormethodoverloading.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\constructormethodoverloading.cs",
+              "RelativeToolTip": "BCSD_02_02\\constructormethodoverloading.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:40:53.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "constructor.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\constructor.cs",
+              "RelativeDocumentMoniker": "BCSD_02_02\\constructor.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\constructor.cs",
+              "RelativeToolTip": "BCSD_02_02\\constructor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:37:23.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "classobject.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\classobject.cs",
+              "RelativeDocumentMoniker": "BCSD_02_02\\classobject.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\classobject.cs",
+              "RelativeToolTip": "BCSD_02_02\\classobject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:34:46.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "accessmodifier.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\accessmodifier.cs",
+              "RelativeDocumentMoniker": "BCSD_02_02\\accessmodifier.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\accessmodifier.cs",
+              "RelativeToolTip": "BCSD_02_02\\accessmodifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:31:57.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "membermethod.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\membermethod.cs",
+              "RelativeDocumentMoniker": "BCSD_02_02\\membermethod.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\membermethod.cs",
+              "RelativeToolTip": "BCSD_02_02\\membermethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:28:39.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "class.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\class.cs",
+              "RelativeDocumentMoniker": "BCSD_02_02\\class.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\uB300\uD559\\BCSD\\week2\\BCSD02\\BCSD_02_02\\BCSD_02_02\\class.cs",
+              "RelativeToolTip": "BCSD_02_02\\class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T12:24:05.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
